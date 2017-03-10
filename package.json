@@ -1,0 +1,14 @@
+{
+  "name": "worshipalliance",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "~4.14.0"
+  }
+}
